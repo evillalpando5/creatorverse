@@ -1,0 +1,39 @@
+#root {
+    background: lavenderblush;
+}
+.viewCreatorCard{
+    #viewBtn {
+        display: none;
+    }
+    padding: 50px;
+    margin: 0 auto;
+    font-family: "Courier New", sans-serif;
+    font-size: 18px;
+    overflow-wrap: anywhere;
+
+}
+
+.homeBtn {
+    font-size: 16px;
+    font-family: "Courier New", sans-serif;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 15px 40px;
+    color: var(--accent);
+    background: #cde5d9;
+    border: 2px solid transparent;
+    transition: border-color 0.3s;
+    margin-top: 24px;
+    margin-left: 40px;
+    box-shadow: 5px 5px 5px 2px var(--accent-border);
+
+
+    &:hover {
+        border-color: var(--accent-border);
+    }
+    &:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+    }
+}
+
