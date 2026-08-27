@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-https://github.com/user-attachments/assets/401f8198-95a6-4aec-843c-8ecb91566e93
+https://github.com/user-attachments/assets/eccd5359-6408-42b9-a3d5-07c7793c38af
+
 
 
 
